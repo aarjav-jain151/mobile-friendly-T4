@@ -42,6 +42,12 @@ Task4-Mobile-Friendly/
 ## 📸 Screenshot
 ![Responsive Website Preview](images/mobile-friendly-T4preview.png)
 
+---
+
+## 🌐 Live Demo
+[![Live Preview](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://aarjav-jain151.github.io/mobile-friendly-T4/)
+
+
 
 ---
 
